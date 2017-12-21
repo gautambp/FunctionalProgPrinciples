@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect contains intersection of (s1, s3) and (s1, s2)[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff contains differance of (s1, s2) and s1[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter contains filter of s1 from (s1, s2)[0m[0m
+[0m[[0minfo[0m] [0m[32m- all forall tests[0m[0m
+[0m[[0minfo[0m] [0m[32m- all exists tests[0m[0m
+[0m[[0minfo[0m] [0m[32m- all map tests[0m[0m

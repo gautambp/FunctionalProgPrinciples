@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mListsTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of List(1, 2, 3) = 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of List(3, 1, 3) = 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of List() = NoSuchElementException exception[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of List(1, 2, 3) = 6[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of List() = 0[0m[0m
